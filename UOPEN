@@ -1,0 +1,28 @@
+# UOPEN V1.0 is an open source protocol
+# Copyright (C) of UOPEN Project
+# (C) 2024 Gusem Fowage
+===
+# $ rights of [the project owner (|| author)]_AO
+# > must mark the AUTHOR <NAME> (,):<EMAIL> :<GITHUB>
+# > must cite the PROJECT as <UOPEN> (|| :<MIT>)
+# > if PROJECT source code is in error
+# > > any bugs or errors in the code, please report it to _AO
+===
+# $ users' rights and responsibilities
+# > you can use the code for your own project
+# > you can modify the code as per your requirements
+# > you can distribute the code to others
+# > you can sell the code as a service or product
+# > if you use the code for any commercial purpose
+# > > you *have not to* contact _AO for permission
+# > > but the loss caused by mistake or misuse cannot be borne by _AO
+# > "copy, modify, merge, publish, distribute, sublicense,and to permit persons to whom the Software is furnished to do so"
+===
+# $ following statement to include in your distribution or use of the code
+# > must include
+# > > "This code always follows the UOPEN V1.0 license."
+# >  chose to include
+# > > "This code is provided as is, without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software."
+===
+# All interpretation rights belong to UOPEN
+# "The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software."
